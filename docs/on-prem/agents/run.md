@@ -48,7 +48,7 @@ When the on-prem agent is running as a Windows service, log files can be found a
 Level of details of the OPA logs depend on your configuration. [Learn more](/on-prem/agents/logging.md).
 
 ### Changing save location for log files 
-To change the save location for log files, launch `Workato` &rarr; `Service Wrapper Configuration` in the Start Menu. Navigate to the `Logging` tab where you can modify `Log path`.  
+To change the save location for log files, launch `Workato` &rarr; `Service Wrapper Configuration` in the Start Menu. Navigate to the `Logging` tab where you can modify `Log path` and then navigate to the `Startup` tab where you can modify the `Arguements`.  
 
 ## On-prem agent is reconnected
 To finish re-establishing the connection, go to the On-prem group dashboard and connect to your on-prem agent.
